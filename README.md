@@ -12,6 +12,6 @@ Además, mi curiosidad y sed de conocimiento me han llevado a explorar herramien
 
 Durante tres enriquecedores meses, me sumergí en el uso de **SharePoint** de Microsoft, ampliando mi comprensión de soluciones empresariales y su integración tecnológica.
 
-Mi enfoque en el aprendizaje continuo se refleja en mis proyectos personales. Actualmente, me embarco en el desarrollo de una aplicación Android en mis momentos libres, una oportunidad para expandir mis habilidades y profundizar en el mundo del desarrollo móvil.
+Mi enfoque en el aprendizaje continuo se refleja en mis proyectos personales. Actualmente, me embarco en el desarrollo de una aplicación Android en mis momentos libres, una oportunidad para expandir mis habilidades y profundizar en el mundo del desarrollo móvil. 📱✨
 
-Más allá del código, disfruto de mi tiempo con mis mascotas, mi familia y amigos, y encuentro inspiración en la música. Estoy emocionado por seguir creciendo profesionalmente en el mundo de la programación, enfrentando nuevos desafíos y contribuyendo a soluciones innovadoras.
+Más allá del código, disfruto de mi tiempo con mis mascotas 🦜, mi familia y amigos 👨‍👩‍👧‍👦, y encuentro inspiración en la música 🎶. Estoy emocionado por seguir creciendo profesionalmente en el mundo de la programación, enfrentando nuevos desafíos y contribuyendo a soluciones innovadoras. 🚀
